@@ -7,7 +7,15 @@
       image: 'people/adjarets.png',
      title: 'Аджарец. Худ. М.Тильке . 1910 г.',
      description: 'Почтовая открытка. 1936 г.' 
-     },{     
+     },{  
+        image: 'people/lazi_gornii_ziteli_batuma.png',
+     title: 'Лазы, горные жители Батума .',
+     description: 'Почтовая открытка начала 20 века.' 
+     },{        
+        image: 'people/lazi_800.png',
+     title: 'Лазы, горные жители Батума . № 2',
+     description: 'Фотография начала 20 века.' 
+     },{       
       image: 'people/prokudin_okrestn_batuma_kurdianka.jpg',
      title: 'Курдская женщина с детьми. Близ сел. Кварцхана.',
      description: 'Сел. Кварцхана находится по пути из Батума в Артвин. Фото С.М. Прокудин-Горский между 1905 и 1915 гг.' 
@@ -97,9 +105,18 @@
      image: 'kult/batum_kostel.png',
      title: 'Батум. Католическая церковь .',
      description:  'Фото начала XX века'    
-         
-         
-         
+      },{
+     image: 'kult/batum_kostel_15.png',
+     title: 'Батум. Католическая церковь . # 2',
+     description:  'Фото начала XX века'       
+      },{
+     image: 'kult/sobor.png',
+     title: 'Батум. Собор .',
+     description:  'Фрагмент фото С.М.Прокудина-Горского .'           
+       },{
+     image: 'kult/batum_zapadn_chast.png',
+     title: 'Батум. Западная часть .',
+     description:  'Фото начала XX века'        
      }];
 
      const data3 = [ ////////////////////////////////////////////////////////////////////////////УЛИЦЫ
