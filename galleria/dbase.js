@@ -139,7 +139,11 @@
          },{ 
      image: 'streets/batum_tiflisskaya_ulitsa_2.jpg',
      title: 'Батум. Тифлисская улица . №2',
-     description:  'Фото начала XX века'        
+     description:  'Фото начала XX века' 
+      },{ 
+     image: 'streets/batum_pochta.png',
+     title: 'Батум. Почтово - телеграфная контора .',
+     description:  'Фото начала XX века'              
      }];
 
      const data4 = [ ////////////////////////////////////////////////////////////////////////////port
@@ -162,7 +166,7 @@
       },{
      image: 'port/batum_lagorio.jpg',
      title: 'Батум. Порт. Картина 1881 г. Лев Лагорио .',
-     description:  'Фото 19 века'       
+     description:  'Картина 19 века'       
       },{
      image: 'port/batum_port.jpg',
      title: 'Батум. Порт.',
@@ -267,6 +271,14 @@
      }];
      const data9 = [ ////////////////////////////////////////////////////////////////////////////prokudin
      {
+     image: 'prokudin/obshii_vid_s_vostoka.png',
+     title: 'Батум. Общий вид с востока . Виден собор.',
+     description: 'Фото С.М. Прокудин-Горский между 1905 и 1915 гг.'
+     },{  
+     image: 'prokudin/batum_obshchii_vid_s_bukhtoi.png',
+     title: 'Батум. Общий вид с бухтой .',
+     description: 'Фото С.М. Прокудин-Горский между 1905 и 1915 гг.'
+     },{   
      image: 'prokudin/okr_batuma_chakva.jpg',
      title: 'Окрестности Батума. Чаква. Общий вид чайной фабрики .',
      description: 'Фото С.М. Прокудин-Горский между 1905 и 1915 гг.'
