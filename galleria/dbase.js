@@ -121,26 +121,38 @@
 
      const data3 = [ ////////////////////////////////////////////////////////////////////////////УЛИЦЫ
      {
-     image: 'streets/batum_mar_prosp.jpg',
-     title: 'Батум. Мариинский проспект .',
+     image: 'streets/batum_loris_melik.jpg',
+     title: 'Лорис-Меликовская улица.',
      description: 'Фото начала XX века'
      },{ 
      image: 'streets/batum_vokzal_46.png',
      title: 'Батум . Вокзал.',
      description:  'Фото начала XX века'
-      },{ 
+     },{ 
+     image: 'streets/batum_mar_prosp.jpg',
+     title: 'Батум. Мариинский проспект .',
+     description: 'Фото начала XX века'
+     },{    
      image: 'streets/batum_mariinski_winter.jpg',
      title: 'Батум. Мариинский проспект. Зима 1911 г.',
      description:  'Фото начала XX века'  
-        },{ 
+     },{ 
+     image: 'streets/batum_mariinski_i_apollo_1.jpg',
+     title: 'Батум. Мариинский проспект и кино "Apollo"',
+     description:  'Фото начала XX века'  
+     },{ 
+     image: 'streets/batum_mariinski_i_apollo_2.jpg',
+     title: 'Батум. Мариинский проспект и кино "Apollo #2"',
+     description:  'Фото начала XX века'    
+     },{      
      image: 'streets/batum_tiflisskaya_ulitsa_1.png',
      title: 'Батум. Тифлисская улица . №1',
      description:  'Фото начала XX века'   
-         },{ 
+     },{ 
      image: 'streets/batum_tiflisskaya_ulitsa_2.jpg',
      title: 'Батум. Тифлисская улица . №2',
      description:  'Фото начала XX века' 
-      },{ 
+     },{ 
      image: 'streets/batum_pochta.png',
      title: 'Батум. Почтово - телеграфная контора .',
      description:  'Фото начала XX века'              
